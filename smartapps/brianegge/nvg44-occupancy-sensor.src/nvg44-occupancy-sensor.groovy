@@ -16,7 +16,7 @@
  *
  */
 definition(
-    name: "NVG44 Wifi Presence",
+    name: "NVG44 Occupancy Sensor",
     namespace: "brianegge",
     author: "Brian Egge",
     description: "Triggers Wifi Presence Status when HTTP GET Request is recieved",
